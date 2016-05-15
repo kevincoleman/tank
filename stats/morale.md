@@ -1,0 +1,1 @@
+0-20 Morale is a scale from zero to 20. Morale starts at 15, and can go up or down depending on team success/failure. Morale is the primary focus of the commander, and the team benefits or suffers based on its value.

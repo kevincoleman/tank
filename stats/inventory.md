@@ -1,0 +1,1 @@
+The tank can carry a fixed amount of supplies (8 grid spaces). This space can hold extra weapons, salvage parts, medicine, &c.

@@ -1,0 +1,1 @@
+The gunner is responsible for shooting at enemies and the hostilities of the war zone. He is limited by the ammunition supply, and must choose which threat is most important to neutralize at any given point. The tank's damage can also make the gunner's job more difficult.

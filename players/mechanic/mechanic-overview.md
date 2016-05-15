@@ -1,0 +1,1 @@
+The mechanic can repair the tank's damage while in the war zone. He faces challenges such as a hostile outside environment, a tank in motion (limiting some types of fixes), and new incoming damage.

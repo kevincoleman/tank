@@ -1,0 +1,1 @@
+5 times the number of team members. Each team member has a health rating of zero to five. Five is tip-top, and zero is dead. The medic's focus is keeping everyone alive and well. Team members' health is attributed to a variety of environments. Morale, stress, fatigue, and physical condition all play parts. Taking damage is one way to lose health.

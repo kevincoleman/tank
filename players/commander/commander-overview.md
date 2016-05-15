@@ -1,0 +1,1 @@
+The commander plays the vital role of communicating with the team members and with HQ. It's the commander's job to make sure the goals of HQ get accomplished by the team, but also to make sure the team stays alive and effective. He is in charge of morale, which affects the whole team.

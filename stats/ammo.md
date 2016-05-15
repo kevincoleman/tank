@@ -1,0 +1,1 @@
+0-16Ammunition is used to fire at enemies, and is stored in the tank in a quantity defined at the start of the mission. The tank can only carry 16 shells, and it's the gunner's choice when to fire shells.

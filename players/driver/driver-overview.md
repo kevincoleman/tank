@@ -1,0 +1,1 @@
+The driver is responsible for deciding the tank's path through the war zone. Choosing this path wisely can give the tank tactical advantage, avoid environmental damage or enemy fire, and expedite the tank's mission objectives. The driver is limited by the tank's damage, and by the environment outside the tank.

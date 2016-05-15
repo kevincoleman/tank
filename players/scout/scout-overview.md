@@ -1,0 +1,1 @@
+The scout is in charge of checking the war zone for enemies, hazards, and general topography. He is regularly under fire, and can choose how far he may venture from the tank. The scout reports what he sees to the commander, and can also return salvage parts to the mechanic.
